@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sistema-convenios/static/css/main.cb3b891a.css",
-    "main.js": "/sistema-convenios/static/js/main.e30ed49f.js",
+    "main.css": "/sistema-convenios/static/css/main.79770c36.css",
+    "main.js": "/sistema-convenios/static/js/main.a0ef3fd1.js",
     "static/js/453.f1685fa0.chunk.js": "/sistema-convenios/static/js/453.f1685fa0.chunk.js",
     "index.html": "/sistema-convenios/index.html",
-    "main.cb3b891a.css.map": "/sistema-convenios/static/css/main.cb3b891a.css.map",
-    "main.e30ed49f.js.map": "/sistema-convenios/static/js/main.e30ed49f.js.map",
+    "main.79770c36.css.map": "/sistema-convenios/static/css/main.79770c36.css.map",
+    "main.a0ef3fd1.js.map": "/sistema-convenios/static/js/main.a0ef3fd1.js.map",
     "453.f1685fa0.chunk.js.map": "/sistema-convenios/static/js/453.f1685fa0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb3b891a.css",
-    "static/js/main.e30ed49f.js"
+    "static/css/main.79770c36.css",
+    "static/js/main.a0ef3fd1.js"
   ]
 }
