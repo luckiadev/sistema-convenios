@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
-const firebaseConfig = {
-    apiKey: "AIzaSyAm0i_oAMvHUGj29XuHz5mkh97EZEuMqQg",
-    authDomain: "sistema-convenios-6dfc7.firebaseapp.com",
-    projectId: "sistema-convenios-6dfc7",
-    storageBucket: "sistema-convenios-6dfc7.firebasestorage.app",
-    messagingSenderId: "70564510180",
-    appId: "1:70564510180:web:cce5c9d7ad091b5c596ff1"
+const firebaseConfig = {                 //Todos estos datos se generar de manera automática en tu cuenta de Firebase
+    apiKey: "Ingresa Tu API KEY",
+    authDomain: "Tu dirección de auth en firebase",
+    projectId: "Nombre de tu proyecto",
+    storageBucket: "Nombre Bucket",
+    messagingSenderId: "0",
+    appId: "ID de Aplicacion"
   };
 
 const app = initializeApp(firebaseConfig);
